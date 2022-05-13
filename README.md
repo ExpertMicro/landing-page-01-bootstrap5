@@ -4,4 +4,4 @@
 
 ## Screenshots
 
-![alt text](https://github.com/ExpertMicro/OGStudio-responsive-travel-website/blob/master/img/travel-website-readme.jpg?raw=true)
+![alt text](https://github.com/ExpertMicro/landing-page-01-bootstrap5/blob/master/assets/full-site.png)
